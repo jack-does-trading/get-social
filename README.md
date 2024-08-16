@@ -1,0 +1,1 @@
+this app aims to make a social media fullstack app that uses the mern technologies to achieve necessary working of a usual social media corporation
